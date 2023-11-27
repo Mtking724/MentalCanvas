@@ -10,6 +10,7 @@
 		B73DEEBE2B137567007F1829 /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73DEEBD2B137567007F1829 /* StartView.swift */; };
 		B73DEEC32B138148007F1829 /* SecondExplainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73DEEC22B138148007F1829 /* SecondExplainView.swift */; };
 		B73DEEC52B138177007F1829 /* ThirdExplainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73DEEC42B138177007F1829 /* ThirdExplainView.swift */; };
+		B73DEEC72B1509A8007F1829 /* PaintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73DEEC62B1509A8007F1829 /* PaintView.swift */; };
 		B76377D32B11EDB6009BC75E /* MentalCanvasApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76377D22B11EDB6009BC75E /* MentalCanvasApp.swift */; };
 		B76377D72B11EDB8009BC75E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B76377D62B11EDB8009BC75E /* Assets.xcassets */; };
 		B76377DA2B11EDB8009BC75E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B76377D92B11EDB8009BC75E /* Preview Assets.xcassets */; };
@@ -19,6 +20,7 @@
 		B73DEEBD2B137567007F1829 /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
 		B73DEEC22B138148007F1829 /* SecondExplainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondExplainView.swift; sourceTree = "<group>"; };
 		B73DEEC42B138177007F1829 /* ThirdExplainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdExplainView.swift; sourceTree = "<group>"; };
+		B73DEEC62B1509A8007F1829 /* PaintView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaintView.swift; sourceTree = "<group>"; };
 		B76377CF2B11EDB6009BC75E /* MentalCanvas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MentalCanvas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B76377D22B11EDB6009BC75E /* MentalCanvasApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MentalCanvasApp.swift; sourceTree = "<group>"; };
 		B76377D62B11EDB8009BC75E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -49,6 +51,7 @@
 				B73DEEBD2B137567007F1829 /* StartView.swift */,
 				B73DEEC22B138148007F1829 /* SecondExplainView.swift */,
 				B73DEEC42B138177007F1829 /* ThirdExplainView.swift */,
+				B73DEEC62B1509A8007F1829 /* PaintView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B73DEEC52B138177007F1829 /* ThirdExplainView.swift in Sources */,
+				B73DEEC72B1509A8007F1829 /* PaintView.swift in Sources */,
 				B76377D32B11EDB6009BC75E /* MentalCanvasApp.swift in Sources */,
 				B73DEEBE2B137567007F1829 /* StartView.swift in Sources */,
 				B73DEEC32B138148007F1829 /* SecondExplainView.swift in Sources */,
