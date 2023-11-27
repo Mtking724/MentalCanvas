@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct StartView: View {
+    
+  
     var body: some View {
         ZStack{
             Color.mint
@@ -18,16 +20,20 @@ struct StartView: View {
                     .resizable()
                     .scaledToFill()
                     .frame(width: 200, height: 200 )
-                Text("MentalCanvasへようこそ")
+                Text("MentalCanvasへようこそ。")
+                    .fontWeight(.medium)
                     .padding(.top)
                     .offset(y: 30)
                     .foregroundColor(.white)
-                    .font(.title2.bold())
+                    .font(.title2)
+                
+            
+                      }
+                }
                 
             }
         }
-    }
-}
+    
 #Preview {
     StartView()
 }
